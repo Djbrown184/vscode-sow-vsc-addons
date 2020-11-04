@@ -1,0 +1,71 @@
+# Change Log
+## [v1.0.0(11/04/2020)](https://github.com/Djbrown184/vscode-sow-vsc-addons/releases/tag/v1.0.0)
+- Add Auto Rename Tag
+- Add Autoprefixer
+- Add Beautify
+- Add Bookmarks
+- Add Color Highlight
+- Add Composer
+- Add CSS Peek
+- Add Debugger for Firefox
+- Add Debugger for Microsoft Edge
+- Add Debugger for Chrome
+- Add Deploy (Reloaded)
+- Add EditorConfig for VS Code
+- Add Emmet Live
+- Add ESLint
+- Add Fabulous
+- Add French Language Pack for Visual Studio Code
+- Add gettext
+- Add gi
+- Add Git History
+- Add Project Manager
+- Add GitLens — Git supercharged
+- Add gitignore
+- Add Open in GitHub, Bitbucket, Gitlab, VisualStudio․com !
+- Add Git Graph
+- Add Git Indicators
+- Add Icon Fonts
+- Add JavaScript (ES6) code snippets
+- Add jshint
+- Add Live Server
+- Add Markdown All in One
+- Add Material Icon Theme
+- Add Modelica
+- Add Node.js Modules Intellisense
+- Add npm
+- Add npm Intellisense
+- Add Nuxt Typescript Snippets
+- Add Nx Console
+- Add Paste and Indent
+- Add php cs fixer
+- Add PHP Debug
+- Add PHP DocBlocker
+- Add PHP Intelephense
+- Add PHP IntelliSense
+- Add PHP Namespace Resolver
+- Add PHP Server
+- Add phpcs
+- Add PHPUnit Snippets
+- Add PHPUnit Test Explorer
+- Add Power Tools
+- Add Prettier - Add Code formatter
+- Add Quick Open
+- Add Relative Path
+- Add Settings Sync
+- Add Symfony code snippets And Twig Support & Yaml
+- Add Symfony debug and autocomplete
+- Add Symfony for VSCode
+- Add Test Explorer UI
+- Add TypeScript Toolbox
+- Add Visual Studio IntelliCode
+- Add vue-pug-snippets
+- Add WakaTime
+- Add YAML
+- Add Alignment
+- Add Guides
+- Add HTML accented character converter
+- Add IntelliSense for CSS class names in HTML
+- Add indent-rainbow
+- Add Live Sass Compiler
+- Add GitHub
